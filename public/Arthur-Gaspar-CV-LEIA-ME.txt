@@ -1,0 +1,6 @@
+Coloque aqui o currículo em PDF real, com o nome exato:
+c:\Users\arthu\Downloads\arthur-portfolio\public\Arthur-Gaspar-CV.pdf
+
+O botão "Baixar currículo" do site já aponta para esse caminho.
+Este arquivo de texto é apenas um lembrete e pode ser apagado
+depois que o PDF real for adicionado.
