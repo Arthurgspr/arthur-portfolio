@@ -315,6 +315,5 @@ principalmente em `data/portfolio.ts`:
 Nenhum desses itens impede o site de funcionar — eles existem para que
 o projeto já nasça completo e visualmente pronto, com dados de exemplo
 claramente sinalizados no código-fonte.
-#   a r t h u r - p o r t f o l i o 
- 
+#arthur-portfolio
  
